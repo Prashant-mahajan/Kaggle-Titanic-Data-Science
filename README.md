@@ -6,20 +6,26 @@ For detail description of the competition visit : https://www.kaggle.com/c/titan
 
 This Notebook will show basic examples of:
 
-# Data Handling
+## Data Handling
 
 Importing Data with Pandas
+
 Cleaning Data
+
 Exploring Data through Visualizations with Matplotlib
+
 Data Analysis
 
-# Supervised Machine learning Techniques:
+## Supervised Machine learning Techniques:
 
-Logit Regression Model
+Logistic Regression Model
+
 Plotting results
+
 Support Vector Machine (SVM)
+
 KNN
 
-# Valuation of the Analysis
+## Valuation of the Analysis
 
 Output the results from the IPython Notebook to Kaggle
