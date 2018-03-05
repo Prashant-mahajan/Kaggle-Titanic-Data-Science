@@ -14,10 +14,12 @@ Exploring Data through Visualizations with Matplotlib
 Data Analysis
 
 # Supervised Machine learning Techniques:
+
 Logit Regression Model
 Plotting results
 Support Vector Machine (SVM)
 KNN
 
-#Valuation of the Analysis
+# Valuation of the Analysis
+
 Output the results from the IPython Notebook to Kaggle
